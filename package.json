@@ -1,0 +1,16 @@
+{
+  "name": "i18n-routing",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "0.0.0-i18n-routing-20231101144500",
+    "@astrojs/node": "6.0.3"pn
+  }
+}
